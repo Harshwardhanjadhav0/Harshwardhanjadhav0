@@ -1,25 +1,25 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARSHWARDHAN%20JADHAV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=150&section=header&text=HARSHWARDHAN%20JADHAV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Cloud+%2F+DevOps+%2F+SRE+Engineer;AWS+%7C+GCP+%7C+Azure+Specialist;Terraform+%7C+Kubernetes+Expert;Building+the+Future+in+the+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Cloud+%E2%98%81%EF%B8%8F+DevOps+%E2%9A%A1+SRE+Engineer;AWS+%7C+GCP+%7C+Azure+Architect;Terraform+%7C+Kubernetes+%7C+Docker;Automating+the+Digital+Universe" alt="Typing SVG" />
 </p>
 
-<!-- Sci-Fi Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Matrix Divider -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <!-- About Section with Holographic Effect -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   &nbsp;ABOUT THE CLOUD ARCHITECT&nbsp;
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
 </div>
 
 ```yaml
@@ -41,9 +41,9 @@ spec:
 
 <!-- Tech Stack with Hover Effects -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
   &nbsp;TECHNOLOGY CONSTELLATION&nbsp;
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 </h2>
 
 <div align="center">
@@ -75,17 +75,17 @@ spec:
 </div>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- Featured Projects -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
   &nbsp;MISSION CONTROL - FEATURED PROJECTS&nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200"/>
 </div>
 
 <table align="center">
@@ -149,9 +149,9 @@ $ kubectl get nodes
 
 <!-- Achievements Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
   &nbsp;CERTIFICATIONS & ACHIEVEMENTS&nbsp;
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30">
 </h2>
 
 <div align="center">
@@ -161,14 +161,14 @@ $ kubectl get nodes
   
   *More certifications loading...*
   
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="50"/>
 </div>
 
 <!-- GitHub Stats -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
   &nbsp;SYSTEM METRICS&nbsp;
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30">
 </h2>
 
 <div align="center">
@@ -186,13 +186,13 @@ $ kubectl get nodes
 
 <!-- Connect Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30">
   &nbsp;ESTABLISH CONNECTION&nbsp;
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30">
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" height="200"/>
   
   <p>
     <a href="https://github.com/Harshwardhanjadhav0">
@@ -232,7 +232,7 @@ harshwardhan@cloud-universe:~$ Building tomorrow's infrastructure today
 </div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=100&section=footer&animation=fadeIn"/>
 
 </div>
 
