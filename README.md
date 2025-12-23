@@ -27,7 +27,7 @@ AWS • Google Cloud • Microsoft Azure
 
 **DevOps & Infrastructure**
 ```
-Kubernetes • Docker • Terraform • Ansible • ArgoCD
+Kubernetes • Docker • Terraform • ArgoCD
 ```
 
 **Automation & Development**
